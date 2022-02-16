@@ -924,7 +924,7 @@ The main difference between the diagram builder and symbol palette is as follows
 
 Software Path
 
-"[Installed Drive]:\Program Files\Syncfusion\Essential Studio\{{ site.releaseversion }}\Utilities\Diagram\Windows Forms\DiagramBuilder"
+"[Installed Drive]:\Program Files (x86)\Syncfusion\Essential Studio\Windows\19.4.0.38\Utilities\Diagram\Windows Forms\Symbol Designer"
 
 1. Overview Control
 
